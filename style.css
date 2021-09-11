@@ -115,7 +115,7 @@ border: 2px solid #01b7ff;
 }
 .content #img img
 {
-width: 800px;
+width: 100%;
 
 margin-left: 70px;
 border-radius: 80px 80px 80px 80px;
